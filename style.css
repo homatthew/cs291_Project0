@@ -1,0 +1,28 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+  padding-top: 56px;
+}
+
+header {
+  padding: 100px 0 100px;
+}
+
+section {
+  padding: 0px 0 300px;
+}
+
+.thicc {
+  border-width: 5px !important;
+}
+
+.content {
+  padding: 300px 0 300px;
+}
+
+.contentText {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
